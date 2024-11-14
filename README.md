@@ -17,16 +17,9 @@ In this section, you will find a collection of fundamental concepts in Generativ
 
 Here is a curated list of practical projects that showcase the applications of Generative AI across different fields. Each project includes code, documentation, and examples to facilitate understanding and experimentation.
 
-- [**Project 1: Text Generation with Transformers**](https://github.com/your-username/gen-ai-repo/tree/main/projects/text-generation)  
-  Build a text generator using transformer models, with applications in creative writing and automated responses.
+- [**Attention Is All You Need**](https://github.com/muriloms/attention-mechanism-transformer-architecture)  
+  This project focuses on implementing the attention mechanism, a core component of the Transformer architecture, widely used in natural language processing and other AI applications. 
 
-- [**Project 2: Image Synthesis with GANs**](https://github.com/your-username/gen-ai-repo/tree/main/projects/image-synthesis)  
-  Create synthetic images using GANs, with experiments on style transfer and domain-specific image generation.
-
-- [**Project 3: Music Composition with VAEs**](https://github.com/your-username/gen-ai-repo/tree/main/projects/music-composition)  
-  Generate music compositions using Variational Autoencoders, exploring the intersection of AI and the creative arts.
-
-<!-- Add more projects as needed -->
 
 ---
 
