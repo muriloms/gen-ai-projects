@@ -13,6 +13,13 @@ In this section, you will find a collection of fundamental concepts in Generativ
 
 ---
 
+## 🚀 [Agents AI](https://github.com/muriloms/agent-ai-projects)
+
+A repository for organizing AI agent-based projects. Each subfolder showcases simple agents, while the README links to more advanced projects and external references
+
+[link](https://github.com/muriloms/agent-ai-projects)
+---
+
 ## 🚀 Practical Projects
 
 Here is a curated list of practical projects that showcase the applications of Generative AI across different fields. Each project includes code, documentation, and examples to facilitate understanding and experimentation.
