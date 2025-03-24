@@ -27,7 +27,7 @@ Here is a curated list of practical projects that showcase the applications of G
 - [**Attention Is All You Need**](https://github.com/muriloms/attention-mechanism-transformer-architecture)  
   This project focuses on implementing the attention mechanism, a core component of the Transformer architecture, widely used in natural language processing and other AI applications. 
 
-
+- [**Dat trade analytics with agents AI***](https://github.com/muriloms/agents-ai-day-trade-analytics)
 ---
 
 ## 📄 About This Repository
